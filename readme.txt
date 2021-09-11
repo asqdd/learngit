@@ -1,5 +1,5 @@
 git is a niubi control system.
-git is a free software.
+git is a free software yeah.
 git is an easy-understanding software.
 git is a tool.
 gtt tracks changed again.
